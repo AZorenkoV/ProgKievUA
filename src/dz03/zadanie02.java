@@ -12,8 +12,7 @@ public class zadanie02 {
 
         System.out.print("Please enter number: ");
         int number = s.nextInt();
-        while(number != 0)
-        {
+        while(number != 0) {
             summa += number;
             number = s.nextInt();
         }

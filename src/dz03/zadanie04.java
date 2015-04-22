@@ -12,8 +12,7 @@ public class zadanie04 {
         System.out.print("Please enter number: ");
         int size = s.nextInt();
 
-        for(int outsideStep = 1 ; outsideStep <= size  ; outsideStep++ )
-        {
+        for(int outsideStep = 1 ; outsideStep <= size  ; outsideStep++ ) {
             for (int insideStep = 1; insideStep <= size; insideStep++)
                 System.out.print(insideStep * outsideStep + "\t");
             System.out.println();
