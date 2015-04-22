@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5b3c23-223a-4128-98dd-696baf24b9c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz02/zadanie02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie09.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dz03/zadanie10.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProgKievUA.iws" />
@@ -560,7 +548,13 @@
       <option name="project" value="LOCAL" />
       <updated>1429521580638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add DZ03">
+      <created>1429696593858</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1429696593858</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -605,7 +599,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete unproject file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete unproject file" />
+    <MESSAGE value="Add DZ03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DZ03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
