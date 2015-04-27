@@ -33,9 +33,11 @@ public class zadanie06 {
 
     private static boolean isPrime(int a) {
         int marker = 0;
-        for (int i = 2; i < a; i++)
-            if ((a % i) != 0 ) marker++;
-        
+        for (int i = 2; i < a; i++) {
+            if ((a % i) != 0) marker++;
+        }
+        if (marker > 0) return false;
+        return true;
     }
 
     private static boolean isOdd(int a) {
